@@ -5,6 +5,14 @@ Flipzone is a java OOP-Based Command Line Retail Store Project.The project simul
 # Concepts Utilized: Inheritance, Polymorphism, Encapsulation, Abstraction, Interfaces
 # Tools and Libraries: Standard Java libraries (java.util, java.util.Scanner, etc.)
 
+# How to run:
+  (1)extract the zip folder.
+  (2)Open a Command Prompt or Terminal: Navigate to the directory where your Java files are located using 'cd' command
+  (3) Compile all the Java files together. You can use the following command to compile all Java files in the directory: javac *.java
+  (4) After successful compilation, run the Main class using the following command: java Main
+
+
+
 # Key Features:
 
  (1) Admin Functionality:
